@@ -15,7 +15,7 @@ The most important skills that I strengthened were:
 - Scripting
 - Game Logic
 - Utilizing Unity's features
-- Handling input from the keyboard nad movement
+- Handling input from the keyboard and movement
 
 https://user-images.githubusercontent.com/106714582/173471900-42102d4e-1df3-4f34-9ccb-1dc4a951eed1.mov
 
